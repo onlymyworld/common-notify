@@ -7,9 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production --progress"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlymyworld/common-notify.git"
+  },
   "author": "yolanda_xiaoxiao",
   "license": "ISC",
-  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/onlymyworld/common-notify/issues"
+  },
+  "homepage": "https://github.com/onlymyworld/common-notify#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "7",
